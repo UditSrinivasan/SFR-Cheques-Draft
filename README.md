@@ -8,7 +8,6 @@ train: /content/yolov9/data/train/images
 val: /content/yolov9/data/val/images      
 test: /content/yolov9/data/test/images 
 nc: 9
-nc: 9
 names: ['Accnt Number', 'Amnt in No.', 'Amnt in Wrds Line 1', 'Amnt in Wrds Line 2', 'Date', 'In Favor Name', 'M Number', 'Name', 'Sign' ]
 ```
 
