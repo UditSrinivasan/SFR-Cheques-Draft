@@ -15,6 +15,6 @@ names: ['Accnt Number', 'Amnt in No.', 'Amnt in Wrds Line 1', 'Amnt in Wrds Line
 # plots.py
 In plots.py line 86 instead of 'getsize' we will be using 'getbbox'
 ```
-w, h = self.font.getbbox(label)[2:] ```
+w, h = self.font.getbbox(label)[2:] 
 ```
 
